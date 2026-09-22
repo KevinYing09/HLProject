@@ -14,5 +14,5 @@ The program should allow volunteers to be able to sign up and drop volunteer eve
 ## Investigation: Identify one question you must research or ask the intended user.
 * What is the biggest issue that impacts the efficiency of your organization?
 
-[Competition Prompt]([https://openai.com](https://greektrack-fbla-public.s3.us-east-1.amazonaws.com/files/1/High%20School%20Competitive%20Events%20Resources/Individual%20Guidelines/Presentation%20Events/Coding-and-Programming.pdf))
+<https://greektrack-fbla-public.s3.us-east-1.amazonaws.com/files/1/High%20School%20Competitive%20Events%20Resources/Individual%20Guidelines/Presentation%20Events/Coding-and-Programming.pdf>
 
